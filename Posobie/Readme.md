@@ -1,6 +1,6 @@
 # Пособие (Stego 200)
 
-Нам дан архив stego.rar, после разархивации которого мы наблюдаем PDF документ.
+Нам дан архив [stego.rar](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/stego.rar), после разархивации которого мы наблюдаем PDF документ.
 
 ![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/1.jpg)
 
