@@ -5,4 +5,8 @@
 ![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/1.jpg)
 
 Исследовав документ, обращаем внимание, что вес файла не соответствует содержимому. 1 страничка PDF весит 10,8 Мб.
-Кроме того, после закрытия документа, Adobe Reader спрашивает о сохранении файла... И если мы его сохраним, то новый PDF-документ будет вешать всего 360 Кб.
+Кроме того, после закрытия документа, Adobe Acrobat Reader спрашивает о сохранении файла... И если мы его сохраним, то новый PDF-документ будет вешать всего 360 Кб... Подозрительно...
+
+![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/2.jpg)
+![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/3.jpg)
+
