@@ -8,5 +8,13 @@
 Кроме того, после закрытия документа, Adobe Acrobat Reader спрашивает о сохранении файла... И если мы его сохраним, то новый PDF-документ будет вешать всего 360 Кб... Подозрительно...
 
 ![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/2.jpg)
+
 ![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/3.jpg)
+
+Изучив подробно "Шпаргалку", можно заметить описание команды Copy, которая собирает несколько файлов в один.
+Рассмотрим структуру PDF файла получше. Для этого воспользуемся программой Hex Editor.
+Любой PDF документ начинается с заголовка "%PDF" и заканчивается "%%EOF". В нашем случае начальный заголовок совпадает, однако конец файла совсем не похож на PDF.
+
+![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/4.jpg)
+
 
