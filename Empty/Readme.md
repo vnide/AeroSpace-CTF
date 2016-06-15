@@ -10,7 +10,7 @@
 
 ![](https://github.com/vnide/AeroSpace-CTF/blob/master/Empty/files/1.jpg)
 
-на первый взгляд ничего необычного. Однако, на пути "Empty.rar\xl\worksheets\_rels\_rels\_rels" находим интересный файл "flag.xml", со следующим содержанием: 
+на первый взгляд ничего необычного. Однако, на пути "Empty.rar\xl\worksheets\\_rels\\_rels\\_rels" находим интересный файл "flag.xml", со следующим содержанием: 
 
 "Aero{b902624cl3f1n0tf1ag5lol0e22e71be67928999lol}     hehehehehehehe"
 
