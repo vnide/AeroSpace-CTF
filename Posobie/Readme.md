@@ -29,6 +29,14 @@
 
 С помощью того же Hex Editor'а, или любого текстового редактора (например NotePad++), убираем весь PDF-документ. То есть всё, что находится до заголовка "яШяа".
 
-![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/5.jpg)
+![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/6.jpg)
 
+Теперь осталось поменять у получившегося файла расширение с PDF в JPG.
 
+Открываем, и перед нами милый котёнок:3
+
+![alt tag](https://github.com/vnide/AeroSpace-CTF/blob/master/Posobie/files/7.jpg)
+
+Однако, всё равно, для такого изображения, размер в 10,4 Мб слишком велик.
+
+Обратимся к "Шпоргалке" ещё раз. 
