@@ -5,3 +5,5 @@
 http://school2016.aerosecurity.ru/
 
 http://final.aerosecurity.ru/
+
+Формат флага: Aero{md5}
